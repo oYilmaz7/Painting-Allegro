@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1478130795 source:c:\users\user\desktop\prolab\proje\main.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
